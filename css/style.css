@@ -1,0 +1,29 @@
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#page-title{
+    background-color: grey;
+    color: black;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+}
+.description {
+    width: 45%;
+}
+.app-period {
+    width: 160px;
+}
+.table {
+
+
+    "pageLength": 20,
+    "paging": true,
+    "lengthChange": false,
+    "searching": false,
+    "ordering": false,
+    "info": true,
+    "autoWidth": true
+}
