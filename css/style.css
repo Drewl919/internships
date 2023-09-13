@@ -16,14 +16,6 @@
 .app-period {
     width: 160px;
 }
-.table {
-
-
-    "pageLength": 20,
-    "paging": true,
-    "lengthChange": false,
-    "searching": false,
-    "ordering": false,
-    "info": true,
-    "autoWidth": true
+tr {
+    outline: thin solid;
 }
